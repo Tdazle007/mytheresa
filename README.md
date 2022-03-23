@@ -9,7 +9,7 @@ generate a successful offline test but none seem to work. I feel it is because o
 I used the easyadmin dependency provided by symfony to carry out this challenge. 
 The dependency takes care of all the basic crud endpoints.
 
-I have also attached the db dump to the App\migrations folder for reference. I hope i wasnt too
+I have also attached the db dump to the App\migrations folder for reference. I hope i wasn't too
 disappointing :(
 
 Please sir, also remember to clear some cache before running the application. For this project
